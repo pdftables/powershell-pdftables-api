@@ -30,8 +30,6 @@ powershell -ExecutionPolicy Unrestricted -File pdftables-convert-dir.ps1 YOUR-AP
 # powershell-convert-single.ps1 
 This enables you to convert a PDF from one directory into another (or same) directory from the command line in Windows.
 
-The script will convert a single PDF in one directory to another directory.
-
 This script takes three mandatory parameters:
 
 * Your PDFTables API Key (displayed on https://pdftables.com/pdf-to-excel-api after you login)
